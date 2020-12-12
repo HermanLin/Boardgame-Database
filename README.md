@@ -22,4 +22,5 @@ For this project, I intend to design a board game database that acts as a place 
 -	Wishlist is dependent on an account. Any tuple in Wishlist can only be associated with one account, but an account can have many boardgames in their Wishlist. Any tuple in Wishlist must also have a boardgame associated with it.
 -	Favorites is also dependent on an account with the same restrictions as Wishlist. 
 
+### Entity-Relation Diagram
 ![er_diagram](BoardgameDatabaseERD.png)
